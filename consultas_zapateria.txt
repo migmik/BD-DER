@@ -1,0 +1,110 @@
+CONSULTAS POSIBLES — PROYECTO ZAPATERÍA
+Base de datos: Gestión de stock y ventas de zapatería minorista
+
+STOCK Y PRODUCTOS
+1. Listar todos los productos con su categoría.
+2. Mostrar todos los talles disponibles de un producto.
+3. Consultar el stock actual de un producto por talle.
+4. Listar productos/talles sin stock.
+5. Listar productos/talles con stock bajo.
+6. Mostrar el stock total de cada producto, sumando todos sus talles.
+7. Mostrar las categorías activas.
+8. Listar todos los productos pertenecientes a una categoría determinada.
+9. Buscar productos por marca.
+10. Buscar productos por modelo.
+11. Mostrar productos cuyo precio actual esté entre dos valores.
+12. Mostrar el producto más caro y el más barato.
+13. Mostrar las categorías con mayor cantidad de productos.
+14. Mostrar productos que todavía nunca se vendieron.
+15. Mostrar productos/talles que nunca tuvieron una compra registrada.
+
+VENTAS
+16. Listar todas las ventas realizadas entre dos fechas.
+17. Mostrar el detalle completo de una venta determinada.
+18. Calcular el total de una venta usando cantidad, precio unitario y descuento.
+19. Calcular la facturación total del día.
+20. Calcular la facturación de un mes determinado.
+21. Calcular la facturación anual.
+22. Mostrar cuántas ventas realizó cada usuario.
+23. Mostrar cuánto dinero vendió cada usuario.
+24. Determinar el usuario con mayor cantidad de ventas.
+25. Determinar el usuario que más facturó.
+26. Mostrar los productos más vendidos por cantidad de unidades.
+27. Mostrar los productos que más dinero facturaron.
+28. Mostrar los talles más vendidos.
+29. Mostrar la marca con mayor cantidad de unidades vendidas.
+30. Mostrar las categorías que más se venden.
+31. Calcular el ticket promedio de las ventas.
+32. Mostrar la venta de mayor importe.
+33. Mostrar la venta de menor importe.
+34. Mostrar las ventas donde se aplicó descuento.
+35. Calcular cuánto dinero se otorgó en descuentos en un período.
+
+COMPRAS Y ABASTECIMIENTO
+36. Listar todas las compras realizadas.
+37. Mostrar las compras realizadas entre dos fechas.
+38. Mostrar todas las compras realizadas a un proveedor determinado.
+39. Mostrar el detalle completo de una compra.
+40. Calcular el importe total de cada compra.
+41. Calcular cuánto se compró durante un mes.
+42. Mostrar cuánto dinero se compró a cada proveedor.
+43. Determinar el proveedor al que más se le compra.
+44. Mostrar los productos/talles comprados con mayor frecuencia.
+45. Mostrar el precio promedio de compra de cada producto.
+46. Comparar precio actual de venta contra precio de compra.
+47. Mostrar qué productos tienen mayor diferencia entre precio de compra y precio de venta.
+48. Mostrar la última fecha en que se compró cada producto.
+49. Detectar productos con stock bajo que deberían reponerse.
+
+PROVEEDORES Y CUENTA CORRIENTE
+50. Listar todos los proveedores.
+51. Buscar un proveedor por CUIT.
+52. Mostrar todos los pagos realizados a un proveedor.
+53. Mostrar cuánto se pagó a cada proveedor.
+54. Calcular el total comprado a cada proveedor.
+55. Calcular la cuenta corriente de cada proveedor: total comprado - total pagado.
+56. Mostrar únicamente proveedores con deuda pendiente.
+57. Ordenar proveedores según el monto adeudado, de mayor a menor.
+58. Mostrar proveedores completamente cancelados.
+59. Mostrar el último pago realizado a cada proveedor.
+60. Mostrar proveedores a los que todavía nunca se les realizó un pago.
+61. Mostrar los medios de pago utilizados con proveedores.
+62. Calcular cuánto dinero se pagó a proveedores durante un mes.
+
+USUARIOS
+63. Listar todos los usuarios activos.
+64. Listar usuarios según su rol.
+65. Mostrar cuántas ventas registró cada usuario.
+66. Mostrar cuántas compras registró cada usuario.
+67. Mostrar cuántos pagos a proveedores registró cada usuario.
+68. Mostrar toda la actividad registrada por un usuario durante un período.
+69. Mostrar usuarios que todavía no registraron ninguna venta.
+70. Mostrar usuarios que realizaron ventas pero nunca registraron compras.
+
+ESTADÍSTICAS
+71. Mostrar el talle más vendido de toda la zapatería.
+72. Mostrar el talle más vendido de cada producto.
+73. Mostrar el talle con menor salida.
+74. Mostrar la marca más vendida.
+75. Mostrar la categoría más vendida.
+76. Mostrar el producto más vendido del mes.
+77. Mostrar el producto menos vendido del mes.
+78. Calcular la facturación por categoría.
+79. Calcular la facturación por marca.
+80. Mostrar la cantidad de unidades vendidas por mes.
+81. Comparar cantidad comprada vs. cantidad vendida por producto.
+82. Mostrar productos que están acumulando stock pero se venden poco.
+83. Mostrar productos con alta rotación de stock.
+84. Calcular el promedio de unidades vendidas por operación.
+85. Mostrar el día con mayor facturación.
+86. Mostrar el mes con mayor facturación.
+87. Mostrar cantidad de ventas por día de la semana.
+88. Calcular el precio promedio de los productos vendidos.
+
+OTRAS
+1. Stock disponible por producto y talle.
+2. Productos más vendidos.
+3. Ventas y facturación por usuario.
+4. Cuenta corriente por proveedor.
+5. Productos con stock bajo que deberían reponerse.
+6. Productos que nunca fueron vendidos.
