@@ -302,9 +302,6 @@
         <mxCell id="Glq1w2Qt906CPjlZFEq3-119" edge="1" parent="1" source="Glq1w2Qt906CPjlZFEq3-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=none;startArrow=none;strokeColor=#777777;" target="Glq1w2Qt906CPjlZFEq3-118">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Glq1w2Qt906CPjlZFEq3-120" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;size=15;strokeColor=#777777;fillColor=#fffbe6;fontSize=11;" value="&lt;b&gt;Referencias&lt;/b&gt;&lt;br&gt;- Atributo subrayado = identificador.&lt;br&gt;- PRODUCTO_TALLE: se identifica por producto + número de calzado.&lt;br&gt;- El stock pertenece a cada combinación producto/talle.&lt;br&gt;- El saldo de proveedor se obtiene de la resta compras − pagos." vertex="1">
-          <mxGeometry height="125" width="560" x="550" y="950" as="geometry" />
-        </mxCell>
         <mxCell id="Glq1w2Qt906CPjlZFEq3-123" connectable="0" parent="1" style="group" value="" vertex="1">
           <mxGeometry height="22" width="55" x="710" y="242" as="geometry" />
         </mxCell>
@@ -430,6 +427,9 @@
         </mxCell>
         <mxCell id="Glq1w2Qt906CPjlZFEq3-45" parent="Glq1w2Qt906CPjlZFEq3-144" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=0;" value="(1,1)" vertex="1">
           <mxGeometry height="22" width="55" as="geometry" />
+        </mxCell>
+        <mxCell id="Glq1w2Qt906CPjlZFEq3-146" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" value="&lt;b&gt;Referencias&lt;/b&gt;&lt;br&gt;- Atributo subrayado = identificador.&lt;br&gt;- PRODUCTO_TALLE: se identifica por producto + número de calzado.&lt;br&gt;- El stock pertenece a cada combinación producto/talle.&lt;br&gt;- El saldo de proveedor se obtiene de la resta compras − pagos." vertex="1">
+          <mxGeometry height="136" width="495" x="585" y="967" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
