@@ -76,7 +76,7 @@
         <mxCell id="Glq1w2Qt906CPjlZFEq3-53" edge="1" parent="1" source="Glq1w2Qt906CPjlZFEq3-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=none;startArrow=none;strokeColor=#777777;" target="Glq1w2Qt906CPjlZFEq3-52">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Glq1w2Qt906CPjlZFEq3-54" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=1.5;fontSize=11;fillColor=#ffffff;strokeColor=#555555;" value="id_producto" vertex="1">
+        <mxCell id="Glq1w2Qt906CPjlZFEq3-54" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=1.5;fontSize=11;fillColor=#ffffff;strokeColor=#555555;fontStyle=4" value="id_producto" vertex="1">
           <mxGeometry height="41.25" width="110" x="450" y="280" as="geometry" />
         </mxCell>
         <mxCell id="Glq1w2Qt906CPjlZFEq3-55" edge="1" parent="1" source="Glq1w2Qt906CPjlZFEq3-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=none;startArrow=none;strokeColor=#777777;" target="Glq1w2Qt906CPjlZFEq3-54">
@@ -106,7 +106,7 @@
         <mxCell id="Glq1w2Qt906CPjlZFEq3-63" edge="1" parent="1" source="Glq1w2Qt906CPjlZFEq3-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=none;startArrow=none;strokeColor=#777777;" target="Glq1w2Qt906CPjlZFEq3-62">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Glq1w2Qt906CPjlZFEq3-64" parent="1" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=1.5;fontSize=11;fillColor=#ffffff;strokeColor=#555555;fontStyle=0" value="&lt;span&gt;numero_calzado&lt;/span&gt;" vertex="1">
+        <mxCell id="Glq1w2Qt906CPjlZFEq3-64" parent="1" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=1.5;fontSize=11;fillColor=#ffffff;strokeColor=#555555;fontStyle=4" value="&lt;span&gt;numero_calzado&lt;/span&gt;" vertex="1">
           <mxGeometry height="45" width="135" x="600" y="685" as="geometry" />
         </mxCell>
         <mxCell id="Glq1w2Qt906CPjlZFEq3-65" edge="1" parent="1" source="Glq1w2Qt906CPjlZFEq3-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=none;startArrow=none;strokeColor=#777777;" target="Glq1w2Qt906CPjlZFEq3-64">
@@ -172,7 +172,7 @@
         <mxCell id="Glq1w2Qt906CPjlZFEq3-85" edge="1" parent="1" source="Glq1w2Qt906CPjlZFEq3-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=none;startArrow=none;strokeColor=#777777;" target="Glq1w2Qt906CPjlZFEq3-84">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Glq1w2Qt906CPjlZFEq3-86" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=1.5;fontSize=11;fillColor=#ffffff;strokeColor=#555555;fontStyle=0" value="&lt;span&gt;id_compra&lt;/span&gt;" vertex="1">
+        <mxCell id="Glq1w2Qt906CPjlZFEq3-86" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=1.5;fontSize=11;fillColor=#ffffff;strokeColor=#555555;fontStyle=4" value="&lt;span&gt;id_compra&lt;/span&gt;" vertex="1">
           <mxGeometry height="45" width="115" x="1065" y="685" as="geometry" />
         </mxCell>
         <mxCell id="Glq1w2Qt906CPjlZFEq3-87" edge="1" parent="1" source="Glq1w2Qt906CPjlZFEq3-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=none;startArrow=none;strokeColor=#777777;" target="Glq1w2Qt906CPjlZFEq3-86">
@@ -254,7 +254,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Glq1w2Qt906CPjlZFEq3-104" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=1.5;fontSize=11;fillColor=#ffffff;strokeColor=#555555;fontStyle=0" value="&lt;span&gt;id_pago&lt;/span&gt;" vertex="1">
+        <mxCell id="Glq1w2Qt906CPjlZFEq3-104" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=1.5;fontSize=11;fillColor=#ffffff;strokeColor=#555555;fontStyle=4" value="&lt;span&gt;id_pago&lt;/span&gt;" vertex="1">
           <mxGeometry height="45" width="105" x="1185" y="828" as="geometry" />
         </mxCell>
         <mxCell id="Glq1w2Qt906CPjlZFEq3-105" edge="1" parent="1" source="Glq1w2Qt906CPjlZFEq3-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=none;startArrow=none;strokeColor=#777777;" target="Glq1w2Qt906CPjlZFEq3-104">
