@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Página-1">
-    <mxGraphModel dx="2178" dy="1188" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1950" pageHeight="1475" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="2292" dy="1250" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1950" pageHeight="1475" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -459,8 +459,8 @@
         <mxCell id="Glq1w2Qt906CPjlZFEq3-45" parent="Glq1w2Qt906CPjlZFEq3-144" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontStyle=0;" value="(1,1)" vertex="1">
           <mxGeometry height="22" width="55" as="geometry" />
         </mxCell>
-        <mxCell id="Glq1w2Qt906CPjlZFEq3-146" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;align=left;verticalAlign=top;spacing=10;" value="&lt;b&gt;REFERENCIAS DEL DER (MODELO CONCEPTUAL)&lt;/b&gt;&lt;br&gt;1) El atributo subrayado identifica cada entidad; por pedido del docente DETALLE_VENTA y DETALLE_COMPRA poseen un ID propio subrayado.&lt;br&gt;2) PRODUCTO_TALLE es dependiente de PRODUCTO y se distingue por producto + número de calzado; el stock pertenece a esa combinación.&lt;br&gt;3) Los antiguos rombos INCLUYE ahora son ENTIDADES ASOCIATIVAS (DETALLE_COMPRA y DETALLE_VENTA) con atributos cantidad y precio unitario.&lt;br&gt;4) (0,N): participación opcional; (1,1): un registro obligatorio; (1,N): uno o varios. En el modelo relacional aparecen sus claves foráneas.&lt;br&gt;5) Las restricciones técnicas FOREIGN KEY, CHECK y los triggers NO se dibujan en el DER conceptual: se documentan en el modelo lógico y SQL.&lt;br&gt;6) PRODUCTO.activo permite identificar si el producto esta vigente en el catalogo (valor inicial: verdadero).&lt;br&gt;7) VENTA.medio_pago corresponde al cobro de la venta COMPLETA: TARJETA_CREDITO, TARJETA_DEBITO, TRANSFERENCIA o EFECTIVO. Es obligatorio y su CHECK está en 02_Restricciones.sql; no se aceptan pagos mixtos." vertex="1">
-          <mxGeometry height="200" width="980" x="485" y="1160" as="geometry" />
+        <mxCell id="Glq1w2Qt906CPjlZFEq3-146" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;align=left;verticalAlign=top;spacing=10;" value="&lt;b&gt;REFERENCIAS DEL DER (MODELO CONCEPTUAL)&lt;/b&gt;&lt;br&gt;1) El atributo subrayado identifica a cada entidad.&lt;br&gt;2) PRODUCTO_TALLE es dependiente de PRODUCTO y se distingue por producto + número de calzado; el stock pertenece a esa combinación.&lt;br&gt;3) CATEGORIA.activa y PRODUCTO.activo permiten identificar si estan vigentes en el catalogo (valor inicial: verdadero).&lt;br&gt;7) VENTA.medio_pago corresponde al cobro de la venta COMPLETA: TARJETA_CREDITO, TARJETA_DEBITO, TRANSFERENCIA o EFECTIVO." vertex="1">
+          <mxGeometry height="130" width="980" x="485" y="1180" as="geometry" />
         </mxCell>
         <mxCell id="Glq1w2Qt906CPjlZFEq3-151" parent="1" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;strokeWidth=2;fontSize=13;" value="registra" vertex="1">
           <mxGeometry height="70" width="120" x="600" y="915" as="geometry" />
